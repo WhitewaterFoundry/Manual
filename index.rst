@@ -3,7 +3,6 @@ The Pengwin Manual
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
 
 Background
 -----------
