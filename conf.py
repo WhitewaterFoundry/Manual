@@ -20,6 +20,7 @@
 project = 'Pengwin'
 copyright = '2019, Whitewater Foundry, Ltd. Co.'
 author = 'Whitewater Foundry'
+master_doc = 'index'
 
 
 # -- General configuration ---------------------------------------------------
