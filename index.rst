@@ -10,7 +10,7 @@ Frequently Asked Questions
 - What is WSL?
 - Why use WSL?
 - What is Pengwin?
-- Why Support Pengwin?
+- Why support Pengwin?
 - That is the difference between WSL1 vs. WSL2?
 
 Installation
