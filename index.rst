@@ -4,13 +4,14 @@ The Pengwin Manual
 .. toctree::
    :maxdepth: 2
 
-Background
+Frequently Asked Questions
 -----------
 
-- What is WSL
-- What is Pengwin
-- Why Support Pengwin
-- WSL1 vs. WSL2
+- What is WSL?
+- Why use WSL?
+- What is Pengwin?
+- Why Support Pengwin?
+- That is the difference between WSL1 vs. WSL2?
 
 Installation
 ------------
@@ -45,6 +46,14 @@ Managing Pengwin Using pengwin-setup
 - Settings
 - Tools
 - Uninstall
+
+Contributing to Pengwin
+-----------------------
+
+- Reporting Bugs (Link Below)
+- Making Pull Requests
+- Helping with Documentation
+- Helping with Translations
 
 Troubleshooting Pengwin
 -----------------------
